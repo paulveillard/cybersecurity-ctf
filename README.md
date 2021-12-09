@@ -1,6 +1,6 @@
-# cybersecurity-ctf
-The World of Cybersecurity Penetration Testing :
-> A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity penetration testing. Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
+# Cybersecurity CTF
+The World of Cybersecurity CTF (Capture The Flag):
+> A collection of CTF frameworks, libraries, resources, softwares and tutorials, books, resources and cool stuff in Cybersecurity. Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
 ### Contents
